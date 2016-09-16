@@ -34,11 +34,35 @@ Arva Presswala
 
 3. ### Emerging Technology
 
-   * Investigate and explain an emerging technology
+   Investigate and explain an emerging technology
 
-     ​
+   #### _Arcology_
 
-   ​
+   ![Areology](http://cache.gawkerassets.com/assets/images/9/2011/07/arcology.jpg)
 
+   Arcology a blend of "architecture" and "ecology". This a feild in which architectural design principles are created for habitats that are highly populated so that we minimize the waste of land,  energy resource, time and are eco friendly.  It includes residential, commercial and agricultural facilities, allowing its residents a comfortable life without connections to traditional urban infrastructure like sewage or food production. An architect named Paolo Soleri is who first came up with the concept of arcology. Despite decades of work on the concept, arcologies seem to be remarkably difficult to build in the real world. The following are some of the real world arcologies that are currently under construction:
 
+   **Arcosanti**
+
+   Arcosanti is a planned community for 5,000 people in the Arizona desert, 70 miles north of state capital Phoenix. Since 1970, Soleri has worked with more than 6000 people for this project.  
+
+   **Masdar City**
+
+   In the United Arab Emirates is a planned city, designed by Foster and Partners. It's called Masdar City, and will rely solely on solar and other renewable energy sources, with a principle of zero-carbon, zero-waste. Six square kilometres have been set aside for the development, which will provide homes to 45,000 to 50,000 people and 1,500 businesses, including the International Renewable Energy Agency and the Masdar Institute of Science and Technology. Cars will be banned, with transport instead provided by mass transit and personal rapid transit systems.
+
+   There are a few more constructions around the world which are still in the starting stages of constructions. 
+
+4. ### Collaborative Research
+
+   #### *Computer science with sociology*
+
+   Computational sociology is a branch of sociology that uses computationally intensive methods to study  and duplicate social situations. It uses computer simulations, artificial intelligence, complex statistical methods, and analytic approaches like social network analysis to develop and test theories of complex social processes through bottom-up replicating of social interactions. Human Computer Interaction, Machine Learning, UI design are just a few of the areas that attempt to mimic or use information about the way humans think, understand and interact.
+
+5. ### Theoretical Computer Science
+
+   #### *Graph Theory*
+
+   ![graph](http://www.dharwadker.org/pirzada/applications/figure_5.gif)
+
+   In computer science, graphs are used to represent networks of communication, data organization, computational devices, the flow of computation, etc. For example, the link structure of a website can be represented by a directed graph, in which the vertices represent web pages and directed edges represent links from one page to another. Social media,travel, biology, computer chip design, and many other fields may use the same method to solve problems. Computer science has taken major intrest in developing algorithims to handle graphs. 
 
